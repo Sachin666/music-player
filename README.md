@@ -1,4 +1,4 @@
-# music-player..
+# music-player
  A lofi music app
 <h3>Live preview <a href="https://rythmful.netlify.app/">Rythmful</a></h3>
 

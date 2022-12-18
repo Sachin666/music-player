@@ -3,7 +3,7 @@
 <h3>Live preview <a href="https://rythmful.netlify.app/">Rythmful</a></h3>
 
 <h4>Rthymful is simple Responsive Music App Created with Features like auto-skip and auto-play</h4>
-<h3>Following Front-End Technologies is used....</h3>
+<h3>Following Front-End Technologies is used..</h3>
 <ul>
   <li>HTML</li>
   <li>SCSS</li>

@@ -1,5 +1,5 @@
 # music-player
- A lofi music app....
+ A lofi music app
 <h3>Live preview <a href="https://rythmful.netlify.app/">Rythmful</a></h3>
 
 <h4>Rthymful is simple Responsive Music App Created with Features like auto-skip and auto-play</h4>
